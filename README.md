@@ -8,7 +8,7 @@
   <a href="#toolbox-instalación">Instalación</a> &#xa0; | &#xa0;
   <a href="#joystick-cómo-jugar">Cómo jugar</a> &#xa0; | &#xa0;
   <a href="#briefcase-licencia">Licencia</a> &#xa0; | &#xa0;
-  <a href="https://github.com/arturomsoberanes" target="_blank">Author</a>
+  <a href="https://github.com/AwZatarra" target="_blank">Autor</a>
 </p>
 
 <br>
