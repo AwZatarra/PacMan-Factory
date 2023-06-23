@@ -44,9 +44,9 @@ $ cd PacMan-Factory
 ```
 ## :joystick: Cómo jugar ##
 
-Abra index.html y podrá ver dos botones "Agregar PacMan" y "Jugar"
-- Para agregar un PacMan simplemente haga clic en "Agregar PacMan"
-- Para hacer mover los PacMan haga clic en "Jugar"
+Abra index.html y podrá ver dos botones "Add PacMan" y "Start Game"
+- Para agregar un PacMan simplemente haga clic en "Add PacMan"
+- Para hacer mover los PacMan haga clic en "Start Game"
 
 
 ## :briefcase:	 Licencia ##
